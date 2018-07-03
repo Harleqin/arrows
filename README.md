@@ -87,6 +87,9 @@ Generally useful for overriding defaults are `as->` and `as->*`:
                       $))
              (/ 75))
 
+However, don't overdo it!  This quickly leads to an unreadable mess.  You may
+well be better off with a few explicit `let` bindings.
+
 ## Documentation
 
 #### `->` initial-form _&rest_ forms => results
