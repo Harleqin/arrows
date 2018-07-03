@@ -3,7 +3,9 @@
 Implements threading macros, inspired by Clojure (both core and
 the [swiss-arrows](https://github.com/rplevy/swiss-arrows) library).
 
-This is an ASDF system providing the package `arrows`.
+This is an ASDF system providing the package `arrows`.  Its home is at
+https://gitlab.com/Harleqin/arrows, with a mirror at
+https://github.com/Harleqin/arrows.
 
 ## Overview
 
