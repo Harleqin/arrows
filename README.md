@@ -25,6 +25,7 @@ below).
 ## Other arrow libraries
 
 - [`arrow-macros`](https://github.com/hipeta/arrow-macros)
+- [`cl-arrows`](https://github.com/nightfly19/cl-arrows) is superseded by `arrows`.
 
 ## Notable differences to Clojure and swiss-arrows
 
